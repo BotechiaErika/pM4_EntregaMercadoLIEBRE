@@ -1,0 +1,23 @@
+{
+    "name": "pm4_entregamercadoliebre",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BotechiaErika/pM4_EntregaMercadoLIEBRE.git"
+    },
+    "keywords": [],
+    "author": "Mendonca Botechia Erika Luisa",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/BotechiaErika/pM4_EntregaMercadoLIEBRE/issues"
+    },
+    "homepage": "https://github.com/BotechiaErika/pM4_EntregaMercadoLIEBRE#readme",
+    "dependencies": {
+        "package.json": "^2.0.1"
+    }
+}
